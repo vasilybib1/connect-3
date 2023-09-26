@@ -1,6 +1,6 @@
 # Connect 3 
 
-![Alt text](example.png?raw=true "Example of the game")
+![Image](example.png?raw=true "Example of the game" | width=200)
 
 ## Run
 
@@ -15,6 +15,6 @@ java -cp .:../external/lanterna.jar main/Main
 
 A terminal connect 3 game (similar to Candy Crush). The terminal rendering was done using a library called lanterna. Only the core of the game is finished and requires more optimizing and fixing. (add animations to visualise how many combos you get, saving the high score, more points for getting more than 3 in a row, prevent user from moving a block if there is no combo)
 
-## Run
+## How to Play
 
 To play the game use `w a s d` to move around the grid and use `space` to select a block that you wish to move. After input a `w a s d` input to move the block in the chosen direction. Press `q` to quit.
