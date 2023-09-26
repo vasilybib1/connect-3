@@ -1,6 +1,6 @@
 # Connect 3 
 
-![Image](example.png| width=200)
+![Image](example.png)
 
 ## Run
 
