@@ -1,5 +1,7 @@
 # Connect 3 
 
+![Alt text](example.png?raw=true "Example of the game")
+
 ## Run
 
 ```
