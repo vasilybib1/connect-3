@@ -13,7 +13,7 @@ java -cp .:../external/lanterna.jar main/Main
 
 ## Descritpion
 
-A terminal connect 3 game (similar to Candy Crush). The terminal rendering was done using a library called lanterna. Only the core of the game is finished and requires more optimizing and fixing. (add animations to visualise how many combos you get, saving the high score, more points for getting more than 3 in a row, prevent user from moving a block if there is no combo)
+A terminal connect 3 game (similar to Candy Crush). The terminal rendering was done using a library called lanterna (https://github.com/mabe02/lanterna). Only the core of the game is finished and requires more optimizing and fixing. (add animations to visualise how many combos you get, saving the high score, more points for getting more than 3 in a row, prevent user from moving a block if there is no combo)
 
 ## How to Play
 
